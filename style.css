@@ -1,0 +1,785 @@
+.one{
+    height: 650px;
+    background-image: url(https://proton.az/meladora_design/img/main/home-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.chreyy{
+    margin-top: 10px !important;
+    border-bottom: 1px solid white;
+    padding-bottom: 15px;
+
+}
+.spansol1{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.spansol1:hover{
+    color: #91B40D !important;
+    animation: shake-circle-01 .1s infinite alternate !important;
+
+
+}
+.iconphone{
+    color: #91B40D;
+
+}
+
+@keyframes shake-circle-01 {
+    0% { transform: translate(-2px, 2px); }
+    33% { transform: translate(-2px, 4px); }
+    66% { transform: translate(-4px, 4px); }
+    100% { transform: translate(-4px, 2px); }
+  }
+  
+
+
+
+  .dropa {
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+  }
+  
+  
+  .dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    margin: 0px;
+    padding: 0px;
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 40px;
+
+
+  }
+  
+  .dropdown-content span {
+    
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    display: block;
+  }
+
+  .show {display: block;}
+.wrv{
+    margin-bottom: -10px;
+}
+.wrv:hover{
+    color: chocolate;
+}
+.gfn{
+    margin-top: -10px;
+}
+.gfn:hover{
+    color: chocolate;
+}
+.icons{
+    color: #91B40D;
+
+}
+.icons:hover{
+    color:white;
+}
+.searchicon{
+    display: none ;
+}
+@media (max-width: 990px) { .searchicon{
+    display: block !important ;
+} }
+
+.navbar2a{
+    margin-left: 20px !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    letter-spacing: .5px !important;
+    z-index: 1 !important;
+    line-height: 1 !important;
+    padding: 6px 0 2px !important;
+    color:aliceblue;
+    text-decoration: none;
+}
+.navbar2a:hover{
+    color: #91B40D;
+    text-decoration: underline 2px solid #91B40D !important;
+
+}
+.div {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+    display: none;
+  }
+  @media (max-width: 990px) { .div{
+    display: block !important ;
+} }
+.gfngff{
+    margin-left: 20px !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    letter-spacing: .5px !important;
+    z-index: 1 !important;
+    line-height: 1 !important;
+    padding: 6px 0 2px !important;
+    color:aliceblue;
+    text-decoration: none;
+}
+.gfngff:hover{
+    color: aliceblue;
+}
+.navbar2arytj{
+    
+    margin-left: 20px !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    letter-spacing: .15px !important;
+    z-index: 1 !important;
+    line-height: 1 !important;
+    padding: 6px 0 2px !important;
+    color: #91B40D;
+    text-decoration:  underline  #91B40D ;
+}
+.navbar2arytj:hover{
+    color: #91B40D;
+    text-decoration: underline 2px solid #91B40D !important;
+
+}
+#rhrgbr {
+    background-color: rgb(14, 96, 14);
+    position: fixed;
+    top: -120px;
+    width: 100%;
+    display: block;
+    transition: top 0.3s;
+    z-index: 3 !important;
+  }
+  .xett{
+    width: 100%;
+   height: 5px;
+    background-color: #FFBF00;
+  }
+  .offcanvasdiv{
+    width: 200px;
+    height: 300px;
+    margin: auto;
+  }
+  .offcanvasli{
+    margin-bottom: 10px !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    letter-spacing: .15px !important;
+    z-index: 1 !important;
+    line-height: 2 !important;
+    padding: 6px 0 2px !important;
+    color: black;
+    text-decoration: none;
+  }
+  .offcanvasli1{
+    margin-bottom: 10px !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    letter-spacing: .15px !important;
+    z-index: 1 !important;
+    line-height: 2 !important;
+    padding: 6px 0 2px !important;
+    color: #91B40D;
+    text-decoration:  underline  #91B40D ;
+  }
+   .offcanvasli:hover{
+    color: #91B40D;
+
+    text-decoration: underline solid 2px #91B40D !important;
+  }
+  .iconsoffcanvas{
+    color:white;
+    background-color: #FFBF00;
+    width: 25px;
+    height: 25px;
+    padding-top: 5px !important;
+    padding-left: 5px !important;
+  }
+  .iconsoffcanvas:hover{
+    
+    background-color: rgb(14, 96, 14);
+
+  }
+  
+
+ 
+  .swiper {
+    width:80%;
+    height: 100%;
+  }
+
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+
+.carusel1 span {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    background-image: url(image/caruselwekil1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
+.carusel2 span {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    background-image: url(image/caruselwekil2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+
+
+}
+.carusel3 span {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    background-image: url(image/caruselwekil3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+
+
+}
+
+
+
+
+.Column1{
+    background-image: url(https://proton.az/meladora_design/img/main/who-am-i.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px ;
+}
+.Column2{
+    margin-top: 25px !important;
+    height: 650px ;
+    background-color: rgb(247, 247, 241);
+}
+.biz{
+    margin-top: 30px;
+    text-align: center;
+}
+.wekil11{
+    text-align: center !important;
+
+}
+.yazi{
+    color: green !important;
+}
+.column{
+    height: 650px;
+    margin-left:70px ;
+}
+.longtext{
+    line-height: -1px;
+    text-indent: 50px;
+
+    font-size: 10px;
+    margin: auto;
+
+}
+.baglarmiz{
+    text-align: center;
+}
+.wekildiv{
+    height: 325px;  
+      background-image: url('https://proton.az/meladora_design/img/gardens/garden-2.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wekildiv2{
+    height: 315px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://proton.az/meladora_design/img/gardens/garden-2.jpg);
+
+}
+.wekildiv3{
+    height: 315px;
+    background-image: url(https://proton.az/meladora_design/img/gardens/garden-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parent {
+    margin-left: -25px !important;
+    margin-right: 15px;
+
+    width: 100%;
+    margin: 20px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.child {
+    transition: all .5s;
+}
+
+.parent:hover .child, .parent:focus .child {
+    transform: scale(1.2);
+}
+.meyveler{
+    height: 210px !important;
+    width: 90%;
+    padding-left: 20px !important;
+
+
+}
+.meyveler:hover{
+    box-shadow: 0 0 15px gray; 
+  
+  transform: scale(1.1);
+   
+
+}
+.ustmeyve{
+    height: 140px !important;
+    width: 100%;
+    padding-left: 25px !important;
+
+}
+.altmeyve{
+    margin: auto;
+    display: flex;
+    height: 70px !important;
+    width: 100%;
+    line-height: 2 !important;
+    padding-left: 60px;
+    box-shadow: 0 0 15px gray; 
+
+
+}
+
+.linkmeyve1{
+    color:#91B40D !important;
+    font-size: 18px !important;
+}
+.linkmeyve:hover{
+    color:#91B40D !important;
+}
+.linkmeyve{
+    color: black !important;
+    font-size: 18px !important;
+
+}
+
+
+
+
+.caruselalt1span {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    background-image: url(https://proton.az/meladora_design/img/blogs/blog-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+  
+  }
+  .caruselalt2span {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    background-image: url(https://proton.az/meladora_design/img/blogs/blog-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+  
+  
+  }
+  .caruselalt3span {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    background-image: url(https://proton.az/meladora_design/img/blogs/blog-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+  }
+
+.author1{
+    color:#FFBF00;
+}
+
+/* css filter*/
+section{
+    padding: 20px;
+    width: 1280px;
+    margin: 40px auto;
+}
+section ul{
+    display: flex;
+    margin-bottom:10px;
+}
+section ul li{
+    list-style: none;
+    background-color: #eee;
+    padding: 8px 20px;
+    margin: 5px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    
+}
+section ul li.active{
+    background-color: #03a9f4;
+    color:#fff;
+}
+.product{
+    display: flex ;
+    flex-wrap:wrap ;
+}
+.product.itemBox{
+   position: relative;
+   width: 300px;
+   height: 300px;
+   margin: 5px;
+}
+.product.itemBox img{
+    position: absolute;
+   top: 0;
+   left:0;
+   width: 100%;
+   height: 100px;
+
+ }
+ /* index2 style.css */
+ .baki{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+.AZ {
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+  }
+  .EN{
+    margin-bottom: -10px;
+    color: white !important;
+}
+.EN:hover{
+    color: chocolate;
+}
+.RUS{
+    margin-top: -10px;
+    color: white !important;
+
+
+}
+.RUS:hover{
+    color: chocolate;
+}
+  .dropback{
+    background-color: #094b0a;
+    z-index: 4 ;
+  }
+  .icons2{
+    color: black;
+
+}
+.icons2:hover{
+    color:#91B40D;
+}
+.weki{
+    margin-top: 10px !important;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+
+}
+.div2 {
+    width: 35px;
+    height: 5px;
+    background-color: black !important;
+    margin: 6px 0;
+    display: none;
+  }
+  @media (max-width: 990px) { .div2{
+    display: block !important ;
+} }
+.ikincicinavbar{
+    
+    margin-left: 20px !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    letter-spacing: .15px !important;
+    z-index: 1 !important;
+    line-height: 1 !important;
+    padding: 6px 0 2px !important;
+    color: black;
+    text-decoration:  underline  #91B40D ;
+}
+.ikincicinavbar:hover{
+    color: #91B40D;
+    text-decoration: underline solid #91B40D !important;
+
+}
+.gence{
+    margin-left: 20px !important;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    letter-spacing: .5px !important;
+    z-index: 1 !important;
+    line-height: 1 !important;
+    padding: 6px 0 2px !important;
+    color:black !important;
+    text-decoration: none;
+}
+.divwekilback{
+    width: 100%;
+    height: 430px;
+    background-image: url(https://proton.az/meladora_design/img/main/home-banner-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bizkimik{
+   
+    font-size: 50px ;
+    font-weight: 500 ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.textsdiv{
+    text-align: center;
+  font-size: 13px;
+  line-height: 2;
+}
+.textmeladora{
+    font-size: 15px;
+    font-weight: 400;
+
+}
+.imgright{
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+    
+}
+.containerclass{
+    width: 100%;
+    margin: auto;
+    display: flex;
+}
+.xidmetler{
+  
+    font-size: 50px ;
+    font-weight: 500 ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+.xidmetlerdiv{
+    margin: auto;
+    display: flex;
+    background-color: red;
+    width: 30%;
+}
+/* index3 css */
+.imgright2{
+    margin: auto;
+   
+  display: flex;
+
+}
+.imgright1{
+    margin: auto;
+   width: 100%;
+  display: flex;
+
+}
+.ledncl{
+    margin-top: 200px;
+}
+@media (max-width: 1000px) { .dfdfvd{
+    display: none;
+} }
+.text01{
+    margin-top: 20px;
+    display: flex;
+    font-weight: 500;
+    font-size: 100px;
+    color: #918F8f;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+/* index6 css */
+.textcenter{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    width: 70%;
+    line-height: 150%;
+    
+   
+}
+/* index7 css */
+.colcenter{
+    height: 300px;
+    margin: auto;
+    display: flex;
+    width: 99%;
+    background-color:  #F3F3F3;
+}
+.imgdivrounded{
+   width: 150px;
+   height: 150px;
+   margin: auto;
+   border-radius: 100%;
+   padding: 32px;
+   display: flex;
+   background-color: white;
+   box-shadow: 3px 6px 12px rgb(0 0 0 / 10%);
+
+}
+.coltext{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.coltext:hover{
+    color:#91B40D;
+
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    display: none;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+  }
+  
+  .overlay-content {
+    position: relative;
+    top: 46%;
+    width: 80%;
+    text-align: center;
+    margin-top: 30px;
+    margin: auto;
+  }
+  
+  .overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .overlay .closebtn:hover {
+    color: #ccc;
+  }
+  
+  .overlay input[type=text] {
+    padding: 15px;
+    font-size: 17px;
+    border: none;
+    float: left;
+    width: 80%;
+    background: white;
+  }
+  
+  .overlay input[type=text]:hover {
+    background: #f1f1f1;
+  }
+  
+  .overlay button {
+    float: left;
+    width: 20%;
+    padding: 15px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .overlay button:hover {
+    background: #bbb;
+  }
+
+
+
+
+
+
+ /* btn scroll top    */
+ #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgb(228, 150, 7);
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+    background-color: rgb(0, 149, 255);
+    color:white;
+  }
+  
+ 
